@@ -1,0 +1,21 @@
+{
+  "status": "prepared locally; remote and project integration blocked",
+  "modules": 9,
+  "subservices": 30,
+  "empty_service_files": 60,
+  "existing_source_modified": 0,
+  "new_files": 104,
+  "project_path": null,
+  "target_framework": null,
+  "sdk": "dotnet not found",
+  "packages_changed": 0,
+  "restore": "not run: no project or SDK",
+  "build": "not run: no project or SDK",
+  "schema_verified": false,
+  "github": "Connected account Talal8t verified with write/admin permissions. Repository verified public and empty before initial upload.",
+  "feature_implementation": false,
+  "next_increment": "Review schema and manual auth design before implementing manual Login",
+  "target_repository": "https://github.com/Talal8t/backendcollab",
+  "branch": "main",
+  "branch_protection": "not configured or verified"
+}

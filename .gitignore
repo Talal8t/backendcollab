@@ -1,0 +1,23 @@
+# Visual Studio / .NET
+.vs/
+.vscode/
+[Bb]in/
+[Oo]bj/
+*.user
+*.suo
+TestResults/
+# Secrets and machine-local settings
+.env
+.env.*
+!.env.example
+**/secrets.json
+**/appsettings.Local.json
+**/appsettings.Development.local.json
+# Local databases, backups and sensitive uploads
+*.mdf
+*.ldf
+*.bak
+*.backup
+uploads/
+driver-documents/
+cnic/
