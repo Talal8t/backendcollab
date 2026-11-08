@@ -16,7 +16,7 @@ The existing Visual Studio solution, SQL schema and ERD have not been supplied. 
 - [Manual authentication design](fyp_humrah/Docs/MANUAL_AUTH_DESIGN.md)
 - [Database First and package/build handoff](fyp_humrah/Docs/DATABASE_FIRST_NOTES.md)
 
-The designated sole merger is **Talal8t**. Main protection, collaborator permissions and owner-only merge enforcement remain unconfigured/unverified. No invitations were sent. Only invite confirmed usernames.
+The designated sole merger is **Talal8t**. GitHub API verification found main unprotected with no effective branch rules; owner-only merging is not enforced. Collaborator permissions were not inspected. No invitations were sent. Only invite confirmed usernames.
 
 ## Verification and next step
 

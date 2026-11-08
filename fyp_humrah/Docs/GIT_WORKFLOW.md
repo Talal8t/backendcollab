@@ -17,7 +17,7 @@ inspected. No project, SDK or package versions were invented, and no backend
 build has been verified. Keep `.github` at the repository root. Merge only missing
 folders into the real single project, preserving existing source and models.
 
-Main protection and owner-only merge enforcement remain unconfigured/unverified.
+After upload, GitHub API verification found main unprotected and no effective branch rules. Owner-only merge authority is not technically enforced.
 No collaborator invitations were sent. The owner setup section below explains
 the required checks; documentation alone does not enforce permissions.
 
